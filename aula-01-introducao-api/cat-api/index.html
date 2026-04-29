@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gatos Aleatório</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: aliceblue;
+            margin-top: 50px;
+        }
+        h1 {
+            color: rgb(1, 13, 172);
+        }
+        button {
+            padding: 15px 30px;
+            font-size: 18px;
+            background-color: rgb(1, 13, 172);
+            color: white;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            margin: 20px;
+        }
+        button:hover {
+            background-color: #f7ac3c;
+        }
+        #imagem {
+            max-width: 500px;
+            border-radius: 15px;
+        }
+    </style>
+</head>
+<body>
+    <h1>😺 Galeria de Gatos</h1>
+    <p>Clique no botão para ver um gato aleatório!</p>
+    <button id="botao">Mostrar Gato</button>
+    <br>
+    <img id="imagem" src="" width="400" style="display: none;">
+    <script>
+        const botao = document.getElementById('botao');
+        const imagem = document.getElementById('imagem');
+
+        botao.addEventListener('click', function() {
+            console.log('Botão clicado! Vamos buscar um gato...')
+            fetch('https://api.thecatapi.com/v1/images/search')
+
+                .then(function(resposta) {
+                    console.log('Resposta HTTP Recebida!');
+                    console.log('Status Code:', resposta.status); //200
+                    console.log('Headers:', resposta.headers);
+                    return resposta.json();
+                })
+
+                .then(function(dados) {
+                    console.log('Dados extraídos (JSON - Objeto JS):', dados);
+                    
+                    const urlDoGato = dados[0].url;
+                    console.log('URL da imagem;', urlDoGato);
+
+                    imagem.src = urlDoGato;
+                    imagem.style.display = 'block';
+
+                    console.log('Imagem carregada com sucesso!')
+                });
+            });
+    </script>
+</body>
+</html>
