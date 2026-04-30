@@ -18,23 +18,23 @@ Nesta Unidade Curricular aprendemos a criar e consumir APIs REST utilizando Pyth
 
 ## Planejamento da UC
 
-| Aula | Data | Tema | Conteúdo | Status |
-|:----:|------|------|----------|:------:|
-| 01 | 29/04 | Introdução a APIs | Conceito, JSON, HTTP, fetch() | ✅ |
-| 02 | --/-- | Protocolo HTTP | Métodos, Status Codes, F12 | ⏳ |
-| 03 | --/-- | Flask - Primeiro Servidor | Instalação, rotas, GET | ⏳ |
-| 04 | --/-- | Rotas e Parâmetros | GET com parâmetros, query string | ⏳ |
-| 05 | --/-- | Método POST | Criar recursos, request.get_json() | ⏳ |
-| 06 | --/-- | PUT e DELETE | Atualizar e remover recursos | ⏳ |
-| 07 | --/-- | Validação de Dados | Schema validation, tratamentos | ⏳ |
-| 08 | --/-- | Banco de Dados | SQLite, SQLAlchemy, conexão | ⏳ |
-| 09 | --/-- | CRUD Completo | Integração API + Banco | ⏳ |
-| 10 | --/-- | Autenticação JWT | Segurança, login, tokens | ⏳ |
-| 11 | --/-- | Documentação | Swagger/OpenAPI, boas práticas | ⏳ |
-| 12 | --/-- | Testes de API | pytest, Postman, testes automatizados | ⏳ |
-| 13 | --/-- | Deploy | Hospedagem, ambientes, variáveis | ⏳ |
-| 14 | --/-- | Projeto Final - Parte 1 | Planejamento e desenvolvimento | ⏳ |
-| 15 | --/-- | Projeto Final - Parte 2 | Apresentação e entrega | ⏳ |
+| Aula | Tema | Conteúdo | Status |
+|:----:|------|----------|:------:|
+| 01 | Introdução a APIs | Conceito, JSON, HTTP, fetch() | ✅ |
+| 02 | Protocolo HTTP | Métodos, Status Codes, F12 | ⏳ |
+| 03 | Flask - Primeiro Servidor | Instalação, rotas, GET | ⏳ |
+| 04 | Rotas e Parâmetros | GET com parâmetros, query string | ⏳ |
+| 05 | Método POST | Criar recursos, request.get_json() | ⏳ |
+| 06 | PUT e DELETE | Atualizar e remover recursos | ⏳ |
+| 07 | Validação de Dados | Schema validation, tratamentos | ⏳ |
+| 08 | Banco de Dados | SQLite, SQLAlchemy, conexão | ⏳ |
+| 09 | CRUD Completo | Integração API + Banco | ⏳ |
+| 10 | Autenticação JWT | Segurança, login, tokens | ⏳ |
+| 11 | Documentação | Swagger/OpenAPI, boas práticas | ⏳ |
+| 12 | Testes de API | pytest, Postman, testes automatizados | ⏳ |
+| 13 | Deploy | Hospedagem, ambientes, variáveis | ⏳ |
+| 14 | Projeto Final - Parte 1 | Planejamento e desenvolvimento | ⏳ |
+| 15 | Projeto Final - Parte 2 | Apresentação e entrega | ⏳ |
 
 
 ---
