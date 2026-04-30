@@ -11,7 +11,7 @@
 Nesta Unidade Curricular aprendemos a criar e consumir APIs REST utilizando Python, Flask e boas práticas de mercado.
 
 <div align="center">
- <img src="screenshots/image-api.png" alt="Dashboard do PySound" width="800">
+ <img src="screenshots/image-api.png" alt="imagem" width="800">
 </div>
 
 ## 🛠️ Tecnologias
