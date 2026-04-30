@@ -20,7 +20,7 @@ Nesta Unidade Curricular aprendemos a criar e consumir APIs REST utilizando Pyth
 
 | Aula | Data | Tema | Conteúdo | Status |
 |:----:|------|------|----------|:------:|
-| 01 | --/-- | Introdução a APIs | Conceito, JSON, HTTP, fetch() | ✅ |
+| 01 | 29/04 | Introdução a APIs | Conceito, JSON, HTTP, fetch() | ✅ |
 | 02 | --/-- | Protocolo HTTP | Métodos, Status Codes, F12 | ⏳ |
 | 03 | --/-- | Flask - Primeiro Servidor | Instalação, rotas, GET | ⏳ |
 | 04 | --/-- | Rotas e Parâmetros | GET com parâmetros, query string | ⏳ |
