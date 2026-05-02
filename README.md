@@ -37,8 +37,8 @@ Nesta Unidade Curricular aprendemos a criar e consumir **APIs REST** utilizando 
 Ao final desta UC, o aluno deverá ser capaz de:
  
 - [x] Compreender o conceito de API e sua importância no desenvolvimento moderno
-- [x] Entender o protocolo HTTP (requisição, resposta, métodos, status codes)
 - [x] Consumir APIs externas utilizando `fetch()` no JavaScript
+- [ ] Entender o protocolo HTTP (requisição, resposta, métodos, status codes)
 - [ ] Criar APIs REST com Python e FastAPI
 - [ ] Implementar endpoints REST completos (GET, POST, PUT, PATCH, DELETE)
 - [ ] Validar dados de entrada com Pydantic
