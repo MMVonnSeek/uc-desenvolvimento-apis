@@ -108,8 +108,6 @@ uvicorn main:app --reload
 - [JWT.io](https://jwt.io/) — debugger de tokens JWT
 ### APIs Públicas para Praticar
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com/) — API fake para testes
-- [PokeAPI](https://pokeapi.co/) — API de Pokémon
-- [ViaCEP](https://viacep.com.br/) — API de CEP brasileiro
 - [Public APIs](https://publicapis.dev/) — diretório de APIs públicas gratuitas
 ### Ferramentas
 - [Thunder Client](https://www.thunderclient.com/) — extensão VS Code para testar APIs
