@@ -3,7 +3,7 @@
 ![Curso](https://img.shields.io/badge/curso-Técnico%20em%20Informática%20para%20Internet-blue)
 ![Instituição](https://img.shields.io/badge/instituição-SENAI-red)
 ![UC](https://img.shields.io/badge/UC-Desenvolvimento%20de%20APIs-green)
-![Professor](https://img.shields.io/badge/professor-Max%20Muller-orange)
+![Professor](https://img.shields.io/badge/professor-Max%20Muller-darkred)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688?logo=fastapi&logoColor=white)
  
