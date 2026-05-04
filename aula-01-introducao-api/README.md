@@ -15,7 +15,7 @@
 | API | URL | Documentação |
 |-----|-----|--------------|
 | The Cat API | `https://api.thecatapi.com/v1/images/search` | [docs](https://developers.thecatapi.com) |
-| Dog API | `https://dog.ceo/api/breeds/image/random` | [docs](https://dog.ceo/dog-api/) |
+| GitHub API | `https://api.github.com/users/${nome}` | [docs](https://docs.github.com/en/rest/users/users?apiVersion=2026-03-10#get-a-user) |
 
 ## Atividades
 
@@ -26,12 +26,20 @@ Criamos juntos uma página que mostra gatos aleatórios.
 
 [Ver código](./cat-api/)
 
-### ✏️ Exercício: Dog API
-Desafio individual: adaptar o código para consumir a Dog API.
+### ✏️ Exercício: GitHub API
+Desafio individual: adaptar o código para consumir a API do GitHub.
 
-**Diferencial:** O JSON da Dog API tem estrutura diferente (dados.message vs dados[0].url)
+**Diferencial:** A resposta da API do GitHub é um objeto JSON direto, diferente da Cat API que retorna um array.
 
-[Ver código](./exercicio-dog-api/)
+**Exemplo de campos úteis:**
+
+- login (nome do usuário)
+
+- avatar_url (foto)
+
+- public_repos (quantidade de repositórios)
+
+[Ver código](./github-api/)
 
 ## Comandos importantes
 
