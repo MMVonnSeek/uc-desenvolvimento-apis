@@ -33,11 +33,11 @@ Desafio individual: adaptar o código para consumir a API do GitHub.
 
 **Exemplo de campos úteis:**
 
-- login (nome do usuário)
+- nome de usuário (login)
 
 - avatar_url (foto)
 
-- public_repos (quantidade de repositórios)
+- bio (biografia)
 
 [Ver código](./github-api/)
 
