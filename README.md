@@ -20,7 +20,7 @@ Nesta Unidade Curricular aprendemos a criar e consumir **APIs REST** utilizando 
 | # | Tema | Conteúdo | Exemplo Guiado | Exercício | Status |
 |:-:|------|----------|:--------------:|:---------:|:------:|
 | 1 | **Introdução a APIs** | Conceito, JSON, fetch(), analogia do garçom | Cat API no navegador | Github API | ✅ |
-| 2 | **HTTP + Primeira API** | Protocolo HTTP, métodos, status codes, FastAPI básico | Primeira API FastAPI | API de Filmes | ⏳ |
+| 2 | **HTTP + Primeira API** | Protocolo HTTP, métodos, status codes, FastAPI básico | Primeira API FastAPI | API de Filmes | ✅ |
 | 3 | **CRUD Completo** | GET, POST, PUT, PATCH, DELETE, HTTPException | CRUD de Produtos | CRUD de Tarefas | ⏳ |
 | 4 | **MVC + Banco de Dados** | SQLAlchemy, ORM, Depends(), estrutura MVC | Produtos API + SQLite | Livros API + SQLite | ⏳ |
 | 5 | **Validação com Pydantic** | BaseModel, Field, validators, schemas de entrada/saída | Schemas avançados | Validação de Usuários | ⏳ |
