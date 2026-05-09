@@ -38,7 +38,7 @@ Ao final desta UC, o aluno deverá ser capaz de:
  
 - [x] Compreender o conceito de API e sua importância no desenvolvimento moderno
 - [x] Consumir APIs externas utilizando `fetch()` no JavaScript
-- [ ] Entender o protocolo HTTP (requisição, resposta, métodos, status codes)
+- [x] Entender o protocolo HTTP (requisição, resposta, métodos, status codes)
 - [ ] Criar APIs REST com Python e FastAPI
 - [ ] Implementar endpoints REST completos (GET, POST, PUT, PATCH, DELETE)
 - [ ] Validar dados de entrada com Pydantic
@@ -152,6 +152,8 @@ Este repositório contém material didático.
 [![Stars](https://img.shields.io/github/stars/MMVonnSeek/uc-desenvolvimento-apis?style=social)](https://github.com/MMVonnSeek/uc-desenvolvimento-apis/stargazers)
 [![Forks](https://img.shields.io/github/forks/MMVonnSeek/uc-desenvolvimento-apis?style=social)](https://github.com/MMVonnSeek/uc-desenvolvimento-apis/network/members)
 [![Follow](https://img.shields.io/github/followers/MMVonnSeek?style=social)](https://github.com/MMVonnSeek)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Max_Muller-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-muller-685705248/)
 
 <br>
 
