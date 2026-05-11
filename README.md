@@ -21,7 +21,7 @@ Nesta Unidade Curricular aprendemos a criar e consumir **APIs REST** utilizando 
 |:-:|------|----------|:--------------:|:---------:|:------:|
 | 1 | **Introdução a APIs** | Conceito, JSON, fetch(), analogia do garçom | Cat API no navegador | Github API | ✅ |
 | 2 | **HTTP + Primeira API** | Protocolo HTTP, métodos, status codes, FastAPI básico | Primeira API FastAPI | API de Filmes | ✅ |
-| 3 | **CRUD Completo** | GET, POST, PUT, PATCH, DELETE, HTTPException | CRUD de Produtos | CRUD de Tarefas | ⏳ |
+| 3 | **CRUD Completo** | GET, POST, PUT, PATCH, DELETE, HTTPException | CRUD de Produtos | CRUD de Tarefas | ✅ |
 | 4 | **MVC + Banco de Dados** | SQLAlchemy, ORM, Depends(), estrutura MVC | Produtos API + SQLite | Livros API + SQLite | ⏳ |
 | 5 | **Validação com Pydantic** | BaseModel, Field, validators, schemas de entrada/saída | Schemas avançados | Validação de Usuários | ⏳ |
 | 6 | **Autenticação JWT** | bcrypt, JWT, registro, login, proteção de rotas | Auth API Completa | Tarefas com Auth | ⏳ |
@@ -40,7 +40,7 @@ Ao final desta UC, o aluno deverá ser capaz de:
 - [x] Consumir APIs externas utilizando `fetch()` no JavaScript
 - [x] Entender o protocolo HTTP (requisição, resposta, métodos, status codes)
 - [ ] Criar APIs REST com Python e FastAPI
-- [ ] Implementar endpoints REST completos (GET, POST, PUT, PATCH, DELETE)
+- [x] Implementar endpoints REST completos (GET, POST, PUT, PATCH, DELETE)
 - [ ] Validar dados de entrada com Pydantic
 - [ ] Conectar uma API a um banco de dados SQLite com SQLAlchemy
 - [ ] Organizar projetos no padrão MVC

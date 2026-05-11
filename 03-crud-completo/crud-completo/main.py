@@ -51,7 +51,7 @@ def criar_produto(produto: ProdutoCreate):
         'preco': produto.preco,
         'estoque': produto.estoque,
     }
-    produto.append(novo)
+    produtos.append(novo)
     proximo_id += 1
     return novo
 
