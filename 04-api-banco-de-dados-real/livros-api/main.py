@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from database import engine, Base
-from router import router as produto_router
+from router import router as livro_router
 
 # Cria as tabelas no banco ao iniciar a API
 # Se o banco.db não existir, cria o arquivo e as tabelas
@@ -18,4 +18,4 @@ app.include_router(livro_router)
 
 @app.get('/')
 def raiz():
-    return {"status": "online", "docs": "/docs", "versao": "2.0.0"}.
+    return {"status": "online", "docs": "/docs", "versao": "2.0.0"}
