@@ -26,7 +26,7 @@ Nesta Unidade Curricular aprendemos a criar e consumir **APIs REST** utilizando 
 | 5 | **Validação com Pydantic** | BaseModel, Field, validators, schemas de entrada/saída | Schemas avançados | Validação de Usuários | ⏳ |
 | 6 | **Autenticação JWT** | bcrypt, JWT, registro, login, proteção de rotas | Auth API Completa | Tarefas com Auth | ⏳ |
 | 7 | **Documentação Swagger** | summary, description, exemplos, tags | Docs ricos na API | Biblioteca documentada | ⏳ |
-| 8 | **Atividades de Revisão** | Atividades de revisão sobre os conteúdos da UC | — | Atividades de Revisão | ⏳ |
+| 8 | **Revisão** | Atividades de revisão sobre os conteúdos da UC | — | Atividades de Revisão | ⏳ |
 | 9 | **Projeto Final** | Sistema completo com todos os conteúdos da UC | — | API completa | 🔒 |
  
 > **Legenda:** ✅ Concluída · ⏳ Em andamento · 🔒 Aguardando
