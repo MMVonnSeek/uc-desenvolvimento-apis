@@ -24,7 +24,7 @@ Nesta Unidade Curricular aprendemos a criar e consumir **APIs REST** utilizando 
 | 3 | **CRUD Completo** | GET, POST, PUT, PATCH, DELETE, HTTPException | CRUD de Produtos | CRUD de Tarefas | ✅ |
 | 4 | **MVC + Banco de Dados** | SQLAlchemy, ORM, Depends(), estrutura MVC | Produtos API + SQLite | Livros API + SQLite | ✅ |
 | 5 | **Validação com Pydantic** | BaseModel, Field, validators, schemas de entrada/saída | Schemas avançados | Validação de Usuários | ✅ |
-| 6 | **Autenticação JWT** | bcrypt, JWT, registro, login, proteção de rotas | Auth API Completa | Tarefas com Auth | ⏳ |
+| 6 | **Autenticação JWT** | bcrypt, JWT, registro, login, proteção de rotas | Auth API Completa | Tarefas com Auth | ✅ |
 | 7 | **Documentação Swagger** | summary, description, exemplos, tags | Docs ricos na API | Biblioteca documentada | ⏳ |
 | 8 | **Revisão** | Atividades de revisão sobre os conteúdos da UC | — | Atividades de Revisão | ⏳ |
 | 9 | **Projeto Final** | Sistema completo com todos os conteúdos da UC | — | API completa | 🔒 |
@@ -45,8 +45,8 @@ Ao final desta UC, o aluno deverá ser capaz de:
 - [x] Conectar uma API a um banco de dados SQLite com SQLAlchemy
 - [x] Organizar projetos no padrão MVC
 - [x] Validar dados de entrada com Pydantic
-- [ ] Implementar autenticação com JWT (JSON Web Tokens)
-- [ ] Aplicar os pilares da segurança da informação (CID) em APIs
+- [x] Implementar autenticação com JWT (JSON Web Tokens)
+- [x] Aplicar os pilares da segurança da informação (CID) em APIs
 - [ ] Documentar APIs com Swagger/OpenAPI
  
 ---
