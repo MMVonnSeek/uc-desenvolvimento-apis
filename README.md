@@ -13,7 +13,7 @@
 Nesta Unidade Curricular aprendemos a criar e consumir **APIs REST** utilizando **Python** e **FastAPI**, seguindo boas práticas de mercado: validação com Pydantic, banco de dados com SQLAlchemy, autenticação JWT e documentação automática via Swagger.
  
 <div align="center">
-  <img src="screenshots/image-api.png" alt="Exemplo de API FastAPI com Swagger UI" width="800">
+  <img src="screenshots/MMVonnSeek1.png" alt="Exemplo de API FastAPI com Swagger UI" width="800">
 </div>
  
 ## Planejamento das Aulas
