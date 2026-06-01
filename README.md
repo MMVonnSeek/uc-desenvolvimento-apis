@@ -1,11 +1,12 @@
 # 🏗️ Em construção...
 # UC — Desenvolvimento de APIs
-![Curso](https://img.shields.io/badge/curso-Técnico%20em%20Informática%20para%20Internet-blue)
-![Instituição](https://img.shields.io/badge/instituição-SENAI-red)
-![UC](https://img.shields.io/badge/UC-Desenvolvimento%20de%20APIs-green)
-![Professor](https://img.shields.io/badge/professor-Max%20Muller-darkred)
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688?logo=fastapi&logoColor=white)
+[![Curso](https://img.shields.io/badge/Curso-Técnico_em_Informática_para_Internet-darkgreen?style=for-the-badge)](https://github.com/mmvonnseek/uc-desenvolvimento-apis)
+[![Instituição](https://img.shields.io/badge/Instituição-SENAI-orange?style=for-the-badge)](https://github.com/mmvonnseek/uc-desenvolvimento-apis)
+[![UC](https://img.shields.io/badge/UC-Desenvolvimento_de_APIs-009688?style=for-the-badge)](https://github.com/mmvonnseek/uc-desenvolvimento-apis)
+[![Professor](https://img.shields.io/badge/Professor-Max_Muller-black?style=for-the-badge)](https://github.com/MMVonnSeek)
+[![Python](https://img.shields.io/badge/Python-3.10+-darkblue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+
  
 ## Sobre esta UC
  
@@ -25,7 +26,7 @@ Nesta Unidade Curricular aprendemos a criar e consumir **APIs REST** utilizando 
 | 4 | **MVC + Banco de Dados** | SQLAlchemy, ORM, Depends(), estrutura MVC | Produtos API + SQLite | Livros API + SQLite | ✅ |
 | 5 | **Validação com Pydantic** | BaseModel, Field, validators, schemas de entrada/saída | Schemas avançados | Validação de Usuários | ✅ |
 | 6 | **Autenticação JWT** | bcrypt, JWT, registro, login, proteção de rotas | Auth API Completa | Tarefas com Auth | ✅ |
-| 7 | **Documentação Swagger** | summary, description, exemplos, tags | Docs ricos na API | Biblioteca documentada | ⏳ |
+| 7 | **Documentação Swagger** | summary, description, exemplos, tags | Docs ricos na API | Biblioteca documentada | ✅ |
 | 8 | **Revisão** | Atividades de revisão sobre os conteúdos da UC | — | Atividades de Revisão | ⏳ |
 | 9 | **Projeto Final** | Sistema completo com todos os conteúdos da UC | — | API completa | 🔒 |
  
@@ -47,7 +48,7 @@ Ao final desta UC, o aluno deverá ser capaz de:
 - [x] Validar dados de entrada com Pydantic
 - [x] Implementar autenticação com JWT (JSON Web Tokens)
 - [x] Aplicar os pilares da segurança da informação (CID) em APIs
-- [ ] Documentar APIs com Swagger/OpenAPI
+- [x] Documentar APIs com Swagger/OpenAPI
  
 ---
  
