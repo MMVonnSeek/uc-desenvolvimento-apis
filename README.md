@@ -4,7 +4,7 @@
 [![Instituição](https://img.shields.io/badge/Instituição-SENAI-orange?style=for-the-badge)](https://github.com/mmvonnseek/uc-desenvolvimento-apis)
 [![UC](https://img.shields.io/badge/UC-Desenvolvimento_de_APIs-009688?style=for-the-badge)](https://github.com/mmvonnseek/uc-desenvolvimento-apis)
 [![Professor](https://img.shields.io/badge/Professor-Max_Muller-black?style=for-the-badge)](https://github.com/MMVonnSeek)
-[![Python](https://img.shields.io/badge/Python-3.10+-darkblue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.10+-00bfe3?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
  
 ## Sobre esta UC
