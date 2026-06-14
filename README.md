@@ -1,35 +1,35 @@
 # 🏗️ Em construção...
+
 # UC — Desenvolvimento de APIs
+
 [![Curso](https://img.shields.io/badge/Curso-Técnico_em_Informática_para_Internet-009688?style=for-the-badge)](https://github.com/mmvonnseek/uc-desenvolvimento-apis)
 [![Instituição](https://img.shields.io/badge/Instituição-SENAI-orange?style=for-the-badge)](https://github.com/mmvonnseek/uc-desenvolvimento-apis)
 [![UC](https://img.shields.io/badge/UC-Desenvolvimento_de_APIs-009688?style=for-the-badge)](https://github.com/mmvonnseek/uc-desenvolvimento-apis)
 [![Professor](https://img.shields.io/badge/Professor-Max_Muller-black?style=for-the-badge)](https://github.com/MMVonnSeek)
 [![Python](https://img.shields.io/badge/Python-3.10+-00bfe3?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
- 
+
 ## Sobre esta UC
- 
+
 Nesta Unidade Curricular aprendemos a criar e consumir **APIs REST** utilizando **Python** e **FastAPI**, seguindo boas práticas de mercado: validação com Pydantic, banco de dados com SQLAlchemy, autenticação JWT e documentação automática via Swagger.
- 
+
 <div align="center">
   <img src="screenshots/MMVonnSeek1.png" alt="Exemplo de API FastAPI com Swagger UI" width="800">
 </div>
  
 ## Planejamento das Aulas
  
-| # | Tema | Conteúdo | Exemplo Guiado | Exercício | Status |
-|:-:|------|----------|:--------------:|:---------:|:------:|
-| 1 | **Introdução a APIs** | Conceito, JSON, fetch(), analogia do garçom | Cat API no navegador | Github API | ✅ |
-| 2 | **HTTP + Primeira API** | Protocolo HTTP, métodos, status codes, FastAPI básico | Primeira API FastAPI | API de Filmes | ✅ |
-| 3 | **CRUD Completo** | GET, POST, PUT, PATCH, DELETE, HTTPException | CRUD de Produtos | CRUD de Tarefas | ✅ |
-| 4 | **MVC + Banco de Dados** | SQLAlchemy, ORM, Depends(), estrutura MVC | Produtos API + SQLite | Livros API + SQLite | ✅ |
-| 5 | **Validação com Pydantic** | BaseModel, Field, validators, schemas de entrada/saída | Schemas avançados | Validação de Usuários | ✅ |
-| 6 | **Autenticação JWT** | bcrypt, JWT, registro, login, proteção de rotas | Auth API Completa | Tarefas com Auth | ✅ |
-| 7 | **Documentação Swagger** | summary, description, exemplos, tags | Docs ricos na API | Biblioteca documentada | ✅ |
-| 8 | **Revisão** | Atividades de revisão sobre os conteúdos da UC | — | Atividades de Revisão | ✅ |
-| 9 | **Projeto Final** | Sistema completo com todos os conteúdos da UC | — | API completa | ⏳ |
- 
-> **Legenda:** ✅ Concluída · ⏳ Em andamento
+| # | Tema | Conteúdo | Exemplo Guiado | Exercício |
+|:-:|------|----------|:--------------:|:---------:|
+| 1 | **Introdução a APIs** | Conceito, JSON, fetch(), analogia do garçom | Cat API no navegador | Github API |
+| 2 | **HTTP + Primeira API** | Protocolo HTTP, métodos, status codes, FastAPI básico | Primeira API FastAPI | API de Filmes |
+| 3 | **CRUD Completo** | GET, POST, PUT, PATCH, DELETE, HTTPException | CRUD de Produtos | CRUD de Tarefas |
+| 4 | **MVC + Banco de Dados** | SQLAlchemy, ORM, Depends(), estrutura MVC | Produtos API + SQLite | Livros API + SQLite |
+| 5 | **Validação com Pydantic** | BaseModel, Field, validators, schemas de entrada/saída | Schemas avançados | Validação de Usuários |
+| 6 | **Autenticação JWT** | bcrypt, JWT, registro, login, proteção de rotas | Auth API Completa | Tarefas com Auth |
+| 7 | **Documentação Swagger** | summary, description, exemplos, tags | Docs ricos na API | Biblioteca documentada |
+| 8 | **Revisão** | Atividades de revisão sobre os conteúdos da UC | — | Atividades de Revisão |
+| 9 | **Projeto Final** | Sistema completo com todos os conteúdos da UC | — | API completa |
  
 ---
  
@@ -139,15 +139,18 @@ uvicorn main:app --reload
 
 **Material produzido com ❤️ para os alunos do SENAI**
 
-*"Ensinar não é transferir conhecimento, mas criar as possibilidades para a sua própria produção ou a sua construção."* — Paulo Freire
+_"Ensinar não é transferir conhecimento, mas criar as possibilidades para a sua própria produção ou a sua construção."_ — Paulo Freire
 
 </div>
 
 ---
+
 ## Licença
+
 Este repositório contém material didático.
 
 ---
+
 <div align="center">
  
 [![Stars](https://img.shields.io/github/stars/MMVonnSeek/uc-desenvolvimento-apis?style=social)](https://github.com/MMVonnSeek/uc-desenvolvimento-apis/stargazers)
@@ -158,6 +161,6 @@ Este repositório contém material didático.
 
 <br>
 
-  [Voltar ao topo](#-uc-desenvolvimento-apis)
+[Voltar ao topo](#-uc-desenvolvimento-apis)
 
 </div>
