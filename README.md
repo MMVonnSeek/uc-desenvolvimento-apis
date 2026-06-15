@@ -1,5 +1,3 @@
-# 🏗️ Em construção...
-
 # UC — Desenvolvimento de APIs
 
 [![Curso](https://img.shields.io/badge/Curso-Técnico_em_Informática_para_Internet-009688?style=for-the-badge)](https://github.com/mmvonnseek/uc-desenvolvimento-apis)
@@ -14,7 +12,7 @@
 Nesta Unidade Curricular aprendemos a criar e consumir **APIs REST** utilizando **Python** e **FastAPI**, seguindo boas práticas de mercado: validação com Pydantic, banco de dados com SQLAlchemy, autenticação JWT e documentação automática via Swagger.
 
 <div align="center">
-  <img src="screenshots/MMVonnSeek1.png" alt="Exemplo de API FastAPI com Swagger UI" width="800">
+  <img src="screenshots/MMVonnSeek1.png" alt="FastAPI" width="800">
 </div>
  
 ## Planejamento das Aulas
@@ -27,7 +25,7 @@ Nesta Unidade Curricular aprendemos a criar e consumir **APIs REST** utilizando 
 | 4 | **MVC + Banco de Dados** | SQLAlchemy, ORM, Depends(), estrutura MVC | Produtos API + SQLite | Livros API + SQLite |
 | 5 | **Validação com Pydantic** | BaseModel, Field, validators, schemas de entrada/saída | Schemas avançados | Validação de Usuários |
 | 6 | **Autenticação JWT** | bcrypt, JWT, registro, login, proteção de rotas | Auth API Completa | Tarefas com Auth |
-| 7 | **Documentação Swagger** | summary, description, exemplos, tags | Docs ricos na API | Biblioteca documentada |
+| 7 | **Documentação Swagger** | summary, description, exemplos, tags | Docs ricos na API | Documentando Tarefas |
 | 8 | **Revisão** | Atividades de revisão sobre os conteúdos da UC | — | Atividades de Revisão |
 | 9 | **Projeto Final** | Sistema completo com todos os conteúdos da UC | — | API completa |
  
